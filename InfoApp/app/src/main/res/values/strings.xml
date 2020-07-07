@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">О себе</string>
+    <string name="var1"><![CDATA[<1 года]]></string>
+    <string name="Skills">Навыки</string>
+    <string name="Name">Павлов Егор</string>
+    <string name="Grade">10 класс</string>
+    <string name="Git">Github</string>
+    <string name="Idea">Идея проекта</string>
+    <string name="Blank">Здесь будет идея проекта empty\nempty\nempty\nempty\nempty\nempty\n</string>
+</resources>
