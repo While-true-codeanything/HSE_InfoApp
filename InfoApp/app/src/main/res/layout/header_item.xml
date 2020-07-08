@@ -16,7 +16,7 @@
         android:textSize="30sp" />
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/flt"
         android:layout_width="66dp"
         android:layout_height="50dp"
         android:layout_gravity="left"
